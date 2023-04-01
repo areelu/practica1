@@ -2,7 +2,7 @@
 
 - Arely Hilda Luis Tiburcio
 
-# Descripción
+## Descripción
 
 Práctica 1 de la clase de computo de alto desempeño
 
